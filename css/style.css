@@ -1,0 +1,67 @@
+/* common part start */
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+ol,li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+body{
+
+}
+.wrepper_full{
+    width: 100%;
+}
+.wrepper{
+    width: 960px;
+    margin: 0 auto;
+}
+.clr{
+    clear: both;
+}
+/* common part end */
+
+/* heading_part start */
+.heading_part{
+    padding: 20px 0px;
+}
+.logo_part{
+    width: 200px;
+    float: left;
+}
+.manu_part{
+    width: 760px;
+    float: left;
+}
+.manu_part ul{
+    float: right;
+}
+.manu_part ul li{
+    float: left;
+}
+.manu_part ul li a{
+    padding: 5px 30px;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #252525;
+    transition: all linear 0.4s;
+}
+.manu_part ul li:last-child a{
+    padding-right: 0;
+}
+.manu_part ul li:hover a{
+    color: rgb(255, 217, 0);
+}
+/* heading_part end */
+
+/* banner_part start */
+
+/* banner_part start */
